@@ -1,4 +1,2 @@
-# Weather Forecast 
-
-
-# Live_Demo :https://raydcode.github.io/Weather-Forecast/
+DAY 17 
+CLICK HERE FOR LIVE https://sreeman16.github.io/Weather-Forecast/
